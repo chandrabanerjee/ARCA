@@ -2,12 +2,11 @@
 
 This repository contains the author's notes and code on various topics related to Data Science. 
 
-All materials are copyrighted by default, and licensed under a Creative Commons Attrtibutions License (see below).  
-
 ### Licensing and Reuse:
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+Copyright (c) 2026 Chandramouli Banerjee.
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 SPDX-License-Identifier: CC-BY-4.0
 
